@@ -1,4 +1,6 @@
 # Bank Transaction System in C
+created by Aayush Beura
+
 
 This project is a **Bank Transaction System** developed in **C**, designed to simulate basic banking operations such as deposits, withdrawals, fund transfers, and transaction history. Initially, the project used **run-time storage** but was later enhanced to store data persistently using **File I/O**, making it more practical and scalable for real-world use.
 
